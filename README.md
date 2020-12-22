@@ -14,3 +14,5 @@ The screenshot from the simulation is shown below:
 
 The average reward and the reward threshold for given percentile (70 in this case) is plotted as shown below:
 ![CartPole_MeanRewards](https://user-images.githubusercontent.com/20210669/102924371-5740b980-4489-11eb-9fd5-772610842fd9.png)
+
+More about various other RL algorithms on Cartpole problem can be found here ![Link](https://arxiv.org/abs/2006.04938)
